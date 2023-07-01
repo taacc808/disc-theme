@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://imgur.com/t/gigachad/jptyi33.jpg);
 
   /*
     Main Theme Color
@@ -34,11 +34,8 @@
   --theme-transparency: rgba(0, 0, 0, 0.8);
 
   /*
-    Home Icon Image
-  */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
 
-  /*
+  
     Change your friends icon image position
   */
   --home-icon-image-position: center center;
