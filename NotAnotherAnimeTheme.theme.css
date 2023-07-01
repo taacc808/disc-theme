@@ -34,7 +34,11 @@
   --theme-transparency: rgba(0, 0, 0, 0.8);
 
   /*
+  Home Icon Image
+  */
+  --home-icon-image: url(https://imgur.com/t/gigachad/jptyi33.jpg);
 
+  /*
   
     Change your friends icon image position
   */
@@ -52,7 +56,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 62px;
 
   /*
     Font Size
